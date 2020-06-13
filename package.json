@@ -1,6 +1,6 @@
 {
   "name": "postcss-remove-nested-calc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PostCSS plugin to remove nested calc() for ie11 compatibility",
   "keywords": [
     "postcss",
@@ -12,12 +12,19 @@
   "scripts": {
     "test": "jest && eslint ."
   },
-  "author": "Nico Jacobs <n.jacobs@familie-redlich.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nico-jacobs/postcss-remove-nested-calc"
+  },
+  "author": "Nico Jacobs <cojaco65@gmail.com>",
   "license": "MIT",
-  "repository": "nico-jacobs/postcss-remove-nested-calc",
+  "bugs": {
+    "url": "https://github.com/nico-jacobs/postcss-remove-nested-calc/issues"
+  },
   "dependencies": {
     "postcss": "^7.0.18"
   },
+  "homepage": "https://github.com/nico-jacobs/postcss-remove-nested-calc#readme",
   "devDependencies": {
     "@logux/eslint-config": "^33.0.0",
     "eslint": "^6.5.1",
