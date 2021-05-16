@@ -18,3 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.2] - 2020-06-12
 * Edit Readme
+
+## [1.0.3] - 2021-05-16
+* update postcss
+* Fix Typo

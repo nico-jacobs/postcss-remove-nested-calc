@@ -12,7 +12,7 @@ E.g. Zach Handing [wrote about it on codepen], and I had a very similar problem.
 This will cause problems in IE11
 ```css
 .foo {
-    width: width: calc(100vw - calc(20% - 10px));
+    width: calc(100vw - calc(20% - 10px));
 }
 ```
 
